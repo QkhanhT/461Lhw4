@@ -1,0 +1,9 @@
+h1{
+    color: grey;
+    border: 15px solid green;
+    padding: 50px;
+}
+
+a:hover{
+    color: blue;
+}
